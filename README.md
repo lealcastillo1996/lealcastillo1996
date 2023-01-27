@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Applied Data Science MSc
 ------------------------
 
-I am an engineer⚙️ and aspiring data scientist 🧑🏻‍🔬. I decided to pursue a master's degree in Applied Data Science because I am fascinated by the diverse ways it can be applied to inform decision-making in various industries, and improve people's lives. I am seeking to combine my technical and analytical skills to excel in the wonderful field of Data Science.
+I am an engineer⚙️ and aspiring data scientist 🧑🏻‍🔬. I decided to pursue a master's degree in Applied Data Science in the Netherlands because I am fascinated by the diverse ways it can be applied to inform decision-making in various industries, and improve people's lives. I am seeking to combine my technical and analytical skills to excel in the wonderful field of Data Science.
 
 * 🌍  I'm based in Netherlands
 * 🖥️  See my portfolio at [Github](http://https://github.com/lealcastillo1996?tab=repositories)
