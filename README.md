@@ -49,7 +49,11 @@ Research paper: https://studenttheses.uu.nl/bitstream/handle/20.500.12932/44283/
 
 - # Mexico city price predictor
 
-Project: https://github.com/lealcastillo1996/Thesis_LLMs
+<img src="https://media.discordapp.net/attachments/1127677458578153494/1135880372685656135/Screenshot_2023-08-01_at_12.22.39.png" alt="Image" style="width: 50%;">
+
+Project: https://github.com/EwoutvanderVelde/SpatialCourse
+
+Research Paper: 
 
 
 
