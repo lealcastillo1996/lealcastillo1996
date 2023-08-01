@@ -31,7 +31,7 @@ I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a
 * ✉️  You can contact me at [lealcastillo1996@gmail.com](mailto:pikoleal96@gmail.com)
 * 🤝  I'm open to collaborating on all things related to data that are interesting
 
-### Projects
+### Main Projects
 
 - # Question answering system with LLMs
 
