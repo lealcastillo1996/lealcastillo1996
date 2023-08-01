@@ -41,6 +41,10 @@ I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a
 
 Question answering system with LLMs
 
+<img src="https://media.discordapp.net/attachments/1127677458578153494/1135871955170496573/Screenshot_2023-06-19_at_23.52.49.png?width=1620&height=936" alt="Screenshot" width="30%">
+
+
+Description:
 
 
 Link to project: https://github.com/lealcastillo1996/Thesis_LLMs
