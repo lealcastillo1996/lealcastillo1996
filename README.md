@@ -1,15 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enrique Leal
+Enrique Leal
 ====================================================================================================================================
 
 Applied Data Science MSc
 ------------------------
 
-I am an engineer⚙️ and aspiring data scientist 🧑🏻‍🔬. I decided to pursue a master's degree in Applied Data Science in the Netherlands because I am fascinated by the diverse ways it can be applied to inform decision-making in various industries, and improve people's lives. I am seeking to combine my technical and analytical skills to excel in the wonderful field of Data Science.
+I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a master's degree in Applied Data Science in the Netherlands because I am fascinated by the diverse ways it can be applied to inform decision-making in various industries, and improve people's lives. I am seeking to combine my technical and analytical skills to excel in the wonderful field of Data Science.
 
 * 🌍  I'm based in Netherlands
-* 🖥️  See my portfolio at [Github](http://https://github.com/lealcastillo1996?tab=repositories)
-* ✉️  You can contact me at [pikoleal96@gmail.com](mailto:pikoleal96@gmail.com)
-* 🧠  I'm learning Machine Learning,NLP, Data Wrangling and Databases, Data Mining, Recommendation Systems, Geospatial Analysis
+* ✉️  You can contact me at [lealcastillo1996@gmail.com](mailto:pikoleal96@gmail.com)
 * 🤝  I'm open to collaborating on all things related to data that are interesting
 
 ### Skills
