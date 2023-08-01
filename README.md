@@ -33,7 +33,7 @@ I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a
 
 ### Main Projects
 
-- # Question answering system with LLMs. (June 2023)
+- # Question answering system with LLMs. (June 2023) [NLP , AI, ML]
 
 <img src="https://media.discordapp.net/attachments/1127677458578153494/1135871955170496573/Screenshot_2023-06-19_at_23.52.49.png?width=1620&height=936" alt="Screenshot" width="60%">
 
@@ -47,7 +47,7 @@ Project: https://github.com/lealcastillo1996/Thesis_LLMs
 Research paper: https://studenttheses.uu.nl/bitstream/handle/20.500.12932/44283/final_thesis_JELC.pdf?sequence=1 
 
 
-- # Mexico city real state price determinants. (April 2023)
+- # Mexico city real state price determinants. (April 2023) [GEO, ML]
 
 <img src="https://media.discordapp.net/attachments/1127677458578153494/1135880372685656135/Screenshot_2023-08-01_at_12.22.39.png" alt="Image" style="width: 50%;">
 
@@ -58,7 +58,7 @@ Project: https://github.com/EwoutvanderVelde/SpatialCourse
 Research Paper: https://github.com/EwoutvanderVelde/SpatialCourse/blob/main/Final_Report%20(2).pdf
 
 
-- # Stream platform recommending system (April 2023)
+- # Stream platform recommending system (April 2023) [NLP, RS]
 
 **Description:** A new streaming platform recommendation system was developed from scratch, employing a combination of collaborative filtering and content-based filtering methods to deliver tailor-made and varied suggestions. This innovative system also includes an interactive interface, granting users the ability to adjust the diversity of their recommendations, ensuring a seamless and personalized user experience that matches their unique preferences
 
@@ -69,7 +69,7 @@ Project: https://github.com/iabrilvzqz/personalisation-for-public-media
 Research Paper: https://github.com/iabrilvzqz/personalisation-for-public-media/blob/master/report%20INFOPPM.pdf
 
 
-- # Fifa World tweets sentiment analysis  (Feb 2023)
+- # Fifa World tweets sentiment analysis  (Feb 2023) [NLP]
 
 <img src="https://media.discordapp.net/attachments/1127677458578153494/1135889793276973096/Screenshot_2023-08-01_at_12.59.48.png?width=1698&height=936" alt="Image" style="width: 50%;">
 
