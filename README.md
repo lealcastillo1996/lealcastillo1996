@@ -53,7 +53,7 @@ Research paper: https://studenttheses.uu.nl/bitstream/handle/20.500.12932/44283/
 
 Project: https://github.com/EwoutvanderVelde/SpatialCourse
 
-Research Paper: 
+Research Paper: https://github.com/EwoutvanderVelde/SpatialCourse/blob/main/Final_Report%20(2).pdf
 
 
 
