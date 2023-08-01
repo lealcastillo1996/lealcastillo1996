@@ -1,4 +1,6 @@
 Enrique Leal
+<img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="Image">
+
 ====================================================================================================================================
 
 Applied Data Science MSc
