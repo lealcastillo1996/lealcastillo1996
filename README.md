@@ -64,7 +64,7 @@ Research Paper: https://github.com/EwoutvanderVelde/SpatialCourse/blob/main/Fina
 
 Project: https://github.com/iabrilvzqz/personalisation-for-public-media
 
-Research Paper: https://github.com/EwoutvanderVelde/SpatialCourse/blob/main/Final_Report%20(2).pdf
+Research Paper: https://github.com/iabrilvzqz/personalisation-for-public-media/blob/master/report%20INFOPPM.pdf
 
 
 
