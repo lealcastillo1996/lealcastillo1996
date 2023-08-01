@@ -60,7 +60,9 @@ Research Paper: https://github.com/EwoutvanderVelde/SpatialCourse/blob/main/Fina
 
 - # Stream platform recommending system (April 2023)
 
+**Description:** A new streaming platform recommendation system was developed from scratch, employing a combination of collaborative filtering and content-based filtering methods to deliver tailor-made and varied suggestions. This innovative system also includes an interactive interface, granting users the ability to adjust the diversity of their recommendations, ensuring a seamless and personalized user experience that matches their unique preferences
 
+<img src="https://media.discordapp.net/attachments/1127677458578153494/1135889057726083183/WhatsApp_Image_2023-03-17_at_15.47.03.jpeg?width=1856&height=934" alt="Image" style="width: 50%;">
 
 Project: https://github.com/iabrilvzqz/personalisation-for-public-media
 
