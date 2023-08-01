@@ -75,6 +75,5 @@ Research Paper: https://github.com/iabrilvzqz/personalisation-for-public-media/b
 
 **Description:** A study involving natural language processing (NLP) was carried out on a dataset of more than 300,000 tweets, utilizing LDA (Latent Dirichlet Allocation) and the Hughging Face Transformer tools.
 
-
   
 Project: https://discord.com/channels/1127677457030455437/1127677458578153494/1135889833940750419
