@@ -38,7 +38,13 @@ I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a
 <img src="https://media.discordapp.net/attachments/1127677458578153494/1135871955170496573/Screenshot_2023-06-19_at_23.52.49.png?width=1620&height=936" alt="Screenshot" width="60%">
 
 
-Description:
+**Description:**
+The chosen domain for the real-world QA task is cloud computing, focusing on Kubernetes technology. The QA system uses Kubernetes public documentation and real-time Google searches as its knowledge source. Performance evaluation is done using a Machine-trained evaluation score (MTES) called estimated human label (EHL), computed through an ML classification model. This model is trained using N-gram-based metrics. A carefully balanced dataset, labeled by human experts, includes various question categories. The research aims to enhance OS-powered QA systems and provide valuable insights into their performance factors by combining human expertise and MTES.
+
+
+
+
+
 
 
 Link to project: https://github.com/lealcastillo1996/Thesis_LLMs
