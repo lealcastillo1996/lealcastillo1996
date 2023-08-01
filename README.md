@@ -42,12 +42,11 @@ I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a
 The chosen domain for the real-world QA task is cloud computing, focusing on Kubernetes technology. The QA system uses Kubernetes public documentation and real-time Google searches as its knowledge source. Performance evaluation is done using a Machine-trained evaluation score (MTES) called estimated human label (EHL), computed through an ML classification model. This model is trained using N-gram-based metrics. A carefully balanced dataset, labeled by human experts, includes various question categories. The research aims to enhance OS-powered QA systems and provide valuable insights into their performance factors by combining human expertise and MTES.
 
 
-
-
-
-
-
 Link to project: https://github.com/lealcastillo1996/Thesis_LLMs
 
 Link to project research paper: https://studenttheses.uu.nl/bitstream/handle/20.500.12932/44283/final_thesis_JELC.pdf?sequence=1 
+
+
+- # Mexico city price predictor
+
 
