@@ -69,4 +69,11 @@ Project: https://github.com/iabrilvzqz/personalisation-for-public-media
 Research Paper: https://github.com/iabrilvzqz/personalisation-for-public-media/blob/master/report%20INFOPPM.pdf
 
 
+- # Fifa World tweets sentiment analysis  (Feb 2023)
 
+<img src="https://media.discordapp.net/attachments/1127677458578153494/1135889793276973096/Screenshot_2023-08-01_at_12.59.48.png?width=1698&height=936" alt="Image" style="width: 50%;">
+
+**Description:** A study involving natural language processing (NLP) was carried out on a dataset of more than 300,000 tweets, utilizing LDA (Latent Dirichlet Allocation) and the Hughging Face Transformer tools.
+  
+
+Project: https://discord.com/channels/1127677457030455437/1127677458578153494/1135889833940750419
