@@ -1,6 +1,6 @@
-Enrique Leal
+<img src="https://media.discordapp.net/attachments/1127677458578153494/1135864552588853328/Screenshot_2023-07-12_at_13.31.45.png" alt="Image" width="10%" />
 
-<img src="https://media.discordapp.net/attachments/1127677458578153494/1135864552588853328/Screenshot_2023-07-12_at_13.31.45.png" alt="Image" width="30%" />
+Enrique Leal
 
 
 ====================================================================================================================================
