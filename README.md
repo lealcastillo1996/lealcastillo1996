@@ -38,3 +38,11 @@ I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a
 <p align="left"> <a href="https://www.github.com/lealcastillo1996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jose-enrique-leal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Projects
+
+Question answering system with LLMs
+
+
+
+Link to project: https://github.com/lealcastillo1996/Thesis_LLMs
+Link to project research paper: https://studenttheses.uu.nl/bitstream/handle/20.500.12932/44283/final_thesis_JELC.pdf?sequence=1 
+
