@@ -5,8 +5,6 @@
 
 Applied Data Science MSc
 ------------------------
-### Skills
-
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -32,11 +30,6 @@ I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a
 * 🌍  I'm based in Netherlands
 * ✉️  You can contact me at [lealcastillo1996@gmail.com](mailto:pikoleal96@gmail.com)
 * 🤝  I'm open to collaborating on all things related to data that are interesting
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/lealcastillo1996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jose-enrique-leal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Projects
 
