@@ -33,7 +33,7 @@ I am an engineer⚙️ and data scientist 🧑🏻‍🔬. I decided to pursue a
 
 ### Main Projects
 
-- # Question answering system with LLMs
+- # Question answering system with LLMs. (June 2023)
 
 <img src="https://media.discordapp.net/attachments/1127677458578153494/1135871955170496573/Screenshot_2023-06-19_at_23.52.49.png?width=1620&height=936" alt="Screenshot" width="60%">
 
@@ -47,13 +47,18 @@ Project: https://github.com/lealcastillo1996/Thesis_LLMs
 Research paper: https://studenttheses.uu.nl/bitstream/handle/20.500.12932/44283/final_thesis_JELC.pdf?sequence=1 
 
 
-- # Mexico city price predictor
+- # Mexico city real state price determinants. (April 2023)
 
 <img src="https://media.discordapp.net/attachments/1127677458578153494/1135880372685656135/Screenshot_2023-08-01_at_12.22.39.png" alt="Image" style="width: 50%;">
+
+**Description:** This study aims to identify the key determinants of property sales prices in Mexico City and understand how they vary across different geographic locations. Thus, the following research questions will be addressed: what are the key determinants for house prices in Mexico City according to Spatial Random Forest (SRF), Geographically Weighted Regression (GWR) and Multiple Geographically Weighted Regression (MGWR)? Specifically, which are the main determinants for each method and how do these results compare with each other?
 
 Project: https://github.com/EwoutvanderVelde/SpatialCourse
 
 Research Paper: https://github.com/EwoutvanderVelde/SpatialCourse/blob/main/Final_Report%20(2).pdf
+
+
+- # Stream platform recommending system (April 2023)
 
 
 
