@@ -1,5 +1,7 @@
 Enrique Leal
-<img src="https://media.discordapp.net/attachments/1127677458578153494/1135864552588853328/Screenshot_2023-07-12_at_13.31.45.png?width=100&height=200" alt="Image">
+<div style="width: 30%; max-width: 100%;">
+  <img src="https://media.discordapp.net/attachments/1127677458578153494/1135864552588853328/Screenshot_2023-07-12_at_13.31.45.png?width=742&height=936" alt="Image" style="width: 100%; height: auto;">
+</div>
 
 ====================================================================================================================================
 
